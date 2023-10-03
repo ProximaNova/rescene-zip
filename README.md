@@ -1,5 +1,3 @@
-https://github.com/ProximaNova/rescene-zip
-
 # rescene-zip
 Rescene a ZIP file, create info on how to bit-identically reconstruct a ZIP file from its extracted files.
 
@@ -14,4 +12,4 @@ The Bash shell and some programs. Use Linux, Cygwin in Windows, or WSL in Window
 5. Test to see the no-timestamps-created "file_test.zip" is the same as the original file "file.zip" by running `sha1sum file.zip file_test.zip`
 
 ## Todo
-Rearange inputs or output for dd from/to a small file, no need to test against a duplicate large file, unless wanted.
+Rearrange inputs or output for dd from/to a small file, no need to test against a duplicate large file, unless wanted.
